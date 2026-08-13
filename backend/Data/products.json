@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Aero Knit Sneakers",
+        "category": "Footwear",
+        "price": 2499,
+        "originalPrice": 3299,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+        "rating": 4.8,
+        "reviews": 126,
+        "badge": "Best Seller",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "name": "Luna Everyday Tote",
+        "category": "Bags",
+        "price": 1799,
+        "originalPrice": 2299,
+        "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85",
+        "rating": 4.7,
+        "reviews": 84,
+        "badge": "New",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "name": "Core Minimal Watch",
+        "category": "Accessories",
+        "price": 3199,
+        "originalPrice": 3999,
+        "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=85",
+        "rating": 4.9,
+        "reviews": 61,
+        "badge": "Popular",
+        "stock": 12
+    },
+    {
+        "id": 4,
+        "name": "Cloud Oversized Tee",
+        "category": "Clothing",
+        "price": 999,
+        "originalPrice": 1399,
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+        "rating": 4.6,
+        "reviews": 109,
+        "badge": "Trending",
+        "stock": 30
+    }
+]
